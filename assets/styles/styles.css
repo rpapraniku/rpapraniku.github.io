@@ -689,7 +689,7 @@ a{
 }
 
 .feature--t-margin{
-        margin-top: 4.5rem;
+        margin-top: 2.5rem;
     }
 
 .feature--on-bottom{
@@ -979,32 +979,26 @@ a{
   height: 1.6666666799999998rem;
 }
 
-.icon--game-controller {
-  background-image: url("../images/icons/game-controller.svg");
-  width: 1.6666666799999998rem;
-  height: 1.6666666799999998rem;
-}
-
 .icon--github-logo {
   background-image: url("../images/icons/github-logo.svg");
   width: 0.500000004rem;
   height: 0.500000004rem;
 }
 
-.icon--terminal {
-  background-image: url("../images/icons/terminal.svg");
-  width: 1.6666666799999998rem;
-  height: 1.6666666799999998rem;
-}
-
-.icon--formula {
-  background-image: url("../images/icons/formula.svg");
+.icon--game-controller {
+  background-image: url("../images/icons/game-controller.svg");
   width: 1.6666666799999998rem;
   height: 1.6666666799999998rem;
 }
 
 .icon--saddle {
   background-image: url("../images/icons/saddle.svg");
+  width: 1.6666666799999998rem;
+  height: 1.6666666799999998rem;
+}
+
+.icon--terminal {
+  background-image: url("../images/icons/terminal.svg");
   width: 1.6666666799999998rem;
   height: 1.6666666799999998rem;
 }
